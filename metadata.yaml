@@ -1,0 +1,36 @@
+_repo: The-Elm-Tree-Tales_29008
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Griswold, F. Burge (Frances Burge)
+    aliases:
+    - Smith, Mrs. F. B.
+    - Smith, F. I. Burge (Frances Irene Burge)
+    - Smith, F. B. (Frances Burge)
+    - Griswold, Frances Irene Burge Smith
+    - Phelps, S. B., Mrs.
+    - Phelps, Mrs. S. B.
+    birthdate: 1826
+    deathdate: 1900
+    gutenberg_agent_id: '33636'
+    url: http://www.gutenberg.org/2009/agents/33636
+description: ''
+gutenberg_issued: '2009-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Children -- Fiction'
+tableOfContents: 'Jennie Grig: the street-sweeper -- Nannie Bates: the huckster''s
+  daughter -- Archibald Mackie: the little cripple.'
+title: The Elm Tree Tales
+url: http://www.gutenberg.org/ebooks/29008
